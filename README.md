@@ -1,2 +1,4 @@
-# mad-libs-app
-This repository contains the starter files for the Mad Libs project.
+# Mad Libs
+
+## Objective
+Use what you have learned about form and event handling to create a Mad Libs web application. 
